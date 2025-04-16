@@ -1,0 +1,1 @@
+Customer churn refers to when customers stop doing business with a company. This project analyzes the Telco Customer Churn dataset to uncover patterns and build predictive models. The solution includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, evaluation, and deployment through a web dashboard.
